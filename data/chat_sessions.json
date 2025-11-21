@@ -1,0 +1,50 @@
+{
+  "active_session": "session_20251121_131026",
+  "sessions": {
+    "session_20251121_125046": {
+      "id": "session_20251121_125046",
+      "title": "hi",
+      "created_at": "2025-11-21T12:50:46.011093",
+      "updated_at": "2025-11-21T13:10:10.362576",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hi",
+          "timestamp": "2025-11-21T13:10:08.186165"
+        },
+        {
+          "role": "assistant",
+          "content": "Hello User! How’s your day going? If there's anything specific you'd like to talk about or if you need assistance with something, just let me know!",
+          "timestamp": "2025-11-21T13:10:10.362576",
+          "output": {
+            "type": "text",
+            "content": "Hello User! How’s your day going? If there's anything specific you'd like to talk about or if you need assistance with something, just let me know!"
+          }
+        }
+      ],
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "token_stats": {
+        "input_tokens": 347,
+        "output_tokens": 36,
+        "total_tokens": 383,
+        "total_cost": 7.365e-05
+      }
+    },
+    "session_20251121_131026": {
+      "id": "session_20251121_131026",
+      "title": "New Chat",
+      "created_at": "2025-11-21T13:10:26.924348",
+      "updated_at": "2025-11-21T13:10:26.924348",
+      "messages": [],
+      "provider": "openai",
+      "model": "gpt-4o-mini",
+      "token_stats": {
+        "input_tokens": 0,
+        "output_tokens": 0,
+        "total_tokens": 0,
+        "total_cost": 0.0
+      }
+    }
+  }
+}
