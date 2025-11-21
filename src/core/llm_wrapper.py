@@ -1,7 +1,7 @@
 from typing import Dict, List, Any, Optional
 from langchain_openai import ChatOpenAI
 from langchain_anthropic import ChatAnthropic
-from langchain.messages import HumanMessage, SystemMessage, AIMessage
+from langchain_core.messages import HumanMessage, SystemMessage, AIMessage
 from langchain_community.callbacks import get_openai_callback
 from config import config
 
